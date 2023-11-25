@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MohammedBeltagy96
+- 👋 Hi, I’m Mohammed Beltagy
 - 👀 I’m interested in Embedded System sowftware 
-- 🌱 I’m currently learning E.S S.W development
-- 💞️ I’m looking to collaborate on biulding projects
 - 📫 How to reach me mohammedbeltagy1996@gmail.com
 
 <!---
